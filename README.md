@@ -6,13 +6,10 @@
 - 🌱 Atualmente fazendo o curso do Start<dev> da @ShirleyR12 ...
 - 💬 Deus e Família, para consolidar a vida pessoal e profissional ...
 - 📫 https://instagram.com/Robsonspires ...
-
-<div>
-  <a href="https://github.com/Robsonspires">
+##
   
-</div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonspires&theme=blue-green" />
+<div style="display: inline_block"><br>
+  <a href="https://github.com/Robsonspires">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonspires&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
