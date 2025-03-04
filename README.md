@@ -3,7 +3,9 @@
 **✨ Robsonspires ✨**
 
 - 🔭 Trabalhando como técnico em manutenção de micros, notes e rede; e Auxiliar Administrativo...
-- 🌱 Atualmente fazendo o curso do Start<dev> e faculdade de ADS.
+- 🌱 Cursando fullstack em 2025 pela #Hashtag.
+- 🌱 Curso do Start<dev> em C# e inicialização fullstack
+- 🌱 Faculdade de Análise e Desenvolvimento de Dados pela Uniasselvi concluída em 2024.
 - 💬 Deus e Família, para consolidar a vida pessoal e profissional ...
 - 📫 https://instagram.com/Robsonspires ...
 ##
